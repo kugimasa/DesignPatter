@@ -9,3 +9,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Builder](/Builder)
 * 複雑な手順でオブジェクト生成したい
+
+[Prototype](/Prototype)
+* いろんな種類のオブジェクトをたくさん作りたい　Ex)図形エディタ
