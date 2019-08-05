@@ -15,3 +15,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Singleton](/Singleton)
 * あるクラスのオブジェクトを１個だけ作って共有できる
+
+[Adapter](/Adapter)
+* 既存のクラスを修正することなく、別のインターフェース(メソッド)を持たせる
