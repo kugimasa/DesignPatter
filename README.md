@@ -8,7 +8,10 @@ Studying GoF's 23 Design Pattern in Java
 * ファクトリクラスのためのファクトリメソッドを作る
 
 [Builder](/Builder)
-* 複雑な手順でオブジェクト生成したい
+* 複雑な手順でオブジェクト生成する
 
 [Prototype](/Prototype)
-* いろんな種類のオブジェクトをたくさん作りたい　Ex)図形エディタ
+* いろんな種類のオブジェクトをたくさん作る　Ex)図形エディタ
+
+[Singleton](/Singleton)
+* あるクラスのオブジェクトを１個だけ作って共有できる
