@@ -18,3 +18,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Adapter](/Adapter)
 * 既存のクラスを修正することなく、別のインターフェース(メソッド)を持たせる
+
+[Bridge](/Bridge)
+* 関連の強い２つのクラスを互いに影響しないようにしたまま拡張する
