@@ -1,11 +1,11 @@
-class Leaf {
+class Leaf implements Node{
     private String name;
 
     Leaf(String name){
         this.name = name;
     }
 
-    void viewName(){
+    public void viewNames(){
         System.out.println(name);
     }
 }
