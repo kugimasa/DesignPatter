@@ -21,3 +21,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Bridge](/Bridge)
 * 関連の強い２つのクラスを互いに影響しないようにしたまま拡張する
+
+[Composite](/Composite)
+* 階層構造をなすオブジェクト全体に再帰的に一連の操作を実行させることができる
