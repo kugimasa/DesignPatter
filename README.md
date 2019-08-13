@@ -24,3 +24,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Composite](/Composite)
 * 階層構造をなすオブジェクト全体に再帰的に一連の操作を実行させることができる
+
+[Decorator](/Decorator)
+* 既存のクラスのインターフェースを変更せずに、クラス継承よりも高い自由度で機能を追加できる
