@@ -30,3 +30,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Facade](/Facade)
 * 既存のクラスを複数組み合わせて使う手順を定石化できる
+
+[Flyweight](/Flyweight)
+* 小さくて軽いオブジェクトをたくさん作ることができる
