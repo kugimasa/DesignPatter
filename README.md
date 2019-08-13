@@ -27,3 +27,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Decorator](/Decorator)
 * 既存のクラスのインターフェースを変更せずに、クラス継承よりも高い自由度で機能を追加できる
+
+[Facade](/Facade)
+* 既存のクラスを複数組み合わせて使う手順を定石化できる
