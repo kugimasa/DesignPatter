@@ -1,3 +1,5 @@
+package Bridge;
+
 class MyComputer {
     private MyPlatform platform;
 

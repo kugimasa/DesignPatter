@@ -1,4 +1,6 @@
-class Main{
+package Prototype;
+
+class Main {
     public static void main(String args[]) {
         Parameter max = new Parameter(100);
         Parameter min = new Parameter(1);

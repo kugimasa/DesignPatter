@@ -1,3 +1,5 @@
+package AbstractFactory;
+
 abstract class Person {
     abstract String getName();
     abstract int getAge();

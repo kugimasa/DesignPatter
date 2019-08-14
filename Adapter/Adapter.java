@@ -1,3 +1,5 @@
+package Adapter;
+
 class Adapter extends PersonB {
     PersonA person;
 

@@ -1,4 +1,6 @@
-class Main{
+package Flyweight;
+
+class Main {
     public static void main(String args[]){
         MyPool pool = new MyPool();
 

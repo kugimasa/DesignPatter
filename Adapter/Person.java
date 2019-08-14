@@ -1,3 +1,5 @@
+package Adapter;
+
 class PersonA {
     private String firstName;
     private String lastName;

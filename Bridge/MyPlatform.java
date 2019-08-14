@@ -1,3 +1,5 @@
+package Bridge;
+
 class MyPlatform {
     static MyPlatform createInstance(boolean isDescritive){
         if(isDescritive){

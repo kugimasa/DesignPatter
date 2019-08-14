@@ -1,4 +1,6 @@
-class Leaf implements Node{
+package Composite;
+
+class Leaf implements Node {
     private String name;
 
     Leaf(String name){

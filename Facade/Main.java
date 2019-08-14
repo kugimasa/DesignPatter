@@ -1,4 +1,6 @@
-class Main{
+package Facade;
+
+class Main {
     public static void main(String args[]){
         //Without Facade class
         BookInfo info = new BookInfo();

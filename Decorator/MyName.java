@@ -1,3 +1,5 @@
-interface MyName{
+package Decorator;
+
+interface MyName {
     String getName();
 }

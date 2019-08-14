@@ -1,3 +1,5 @@
+package FactoryMethod;
+
 abstract class Home {
     abstract String getAddress();
     abstract int getFloor();
