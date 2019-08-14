@@ -33,3 +33,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Flyweight](/Flyweight)
 * 小さくて軽いオブジェクトをたくさん作ることができる
+
+[Proxy](/Proxy)
+* あるオブジェクトが他からアクセスされたときにフックされる
