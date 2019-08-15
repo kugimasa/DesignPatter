@@ -36,3 +36,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Proxy](/Proxy)
 * あるオブジェクトが他からアクセスされたときにフックされる
+
+[Chain of Responsibility](/ChainOfResponsibility)
+* 1つのリクエストを複数のオブジェクトの中から選んで処理させることができる
