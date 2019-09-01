@@ -39,3 +39,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Chain of Responsibility](/ChainOfResponsibility)
 * 1つのリクエストを複数のオブジェクトの中から選んで処理させることができる
+
+[Command](/Command)
+* リクエスト(オブジェクトのメソッドの呼び出し)の内容をコマンドオブジェクトにカプセル化する
