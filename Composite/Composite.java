@@ -1,6 +1,4 @@
-package Composite;
-
-class Composite implements Node {
+class Composite implements Node{
     private String name;
     Node childNode = null;
     /*

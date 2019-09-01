@@ -1,6 +1,4 @@
-package Facade;
-
-class BookInfo {
+class BookInfo{
     String getId(){
         return "12345678";
     }

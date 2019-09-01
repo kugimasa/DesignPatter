@@ -1,5 +1,3 @@
-package AbstractFactory;
-
 class AlexFactory extends Factory {
     Person createPerson() { return new Alex(); }
     Computer createComputer() { return new MacBookAir(); }

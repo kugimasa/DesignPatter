@@ -1,6 +1,4 @@
-package Prototype;
-
-class Parameter implements Cloneable {
+class Parameter implements Cloneable{
     public int value;
     
     Parameter(int value){

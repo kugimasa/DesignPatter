@@ -1,5 +1,3 @@
-package Builder;
-
 class Builder {
     String name;
 

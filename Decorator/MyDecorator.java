@@ -1,6 +1,4 @@
-package Decorator;
-
-class MyDecorator implements MyName {
+class MyDecorator implements MyName{
     MyName target;
     MyDecorator(MyName target){
         this.target = target;

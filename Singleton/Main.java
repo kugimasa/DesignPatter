@@ -1,5 +1,3 @@
-package Singleton;
-
 class Main {
     public static void main(String args[]) {
         Object object1 = Object.getInstance();

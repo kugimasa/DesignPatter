@@ -1,6 +1,4 @@
-package Flyweight;
-
-class Person {
+class Person{
     String name;
     String job;
 

@@ -1,6 +1,4 @@
-package Builder;
-
-class Person {
+class Person{
     private String name;
     //Constructor
     Person(String name){
