@@ -1,6 +1,4 @@
-package Bridge;
-
-class Main {
+class Main{
     public static void main(String args[]) {
         MyComputer myComputer;
 

@@ -1,5 +1,3 @@
-package Builder;
-
 class FullName {
     Person createPerson(Builder builder) {
         builder.addFirstName();

@@ -1,5 +1,3 @@
-package Singleton;
-
 class Object {
     static Object uniqueInstance;
 

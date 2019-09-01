@@ -1,6 +1,4 @@
-package Flyweight;
-
-class MyPool {
+class MyPool{
     java.util.HashMap pool = new java.util.HashMap();
 
     void putPerson(Person person){

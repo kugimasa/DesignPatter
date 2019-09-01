@@ -1,6 +1,4 @@
-package Decorator;
-
-class Main {
+class Main{
     public static void main(String args[]){
         //Using Alex
         MyNameImp1 alex = new MyNameImp1();

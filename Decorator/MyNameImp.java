@@ -1,6 +1,5 @@
-package Decorator;
 
-class MyNameImp1 implements MyName {
+class MyNameImp1 implements MyName{
     public String getName(){
         return "Alex";
     }
