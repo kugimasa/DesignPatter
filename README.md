@@ -42,3 +42,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Command](/Command)
 * リクエスト(オブジェクトのメソッドの呼び出し)の内容をコマンドオブジェクトにカプセル化する
+
+[Interpreter](/Interpreter)
+* 構文解析の結果を実行したい
