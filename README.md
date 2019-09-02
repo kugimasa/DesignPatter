@@ -45,3 +45,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Interpreter](/Interpreter)
 * 構文解析の結果を実行したい
+
+[Iterator](/Iterator)
+* 蓄積されたオブジェクト群に対して順番にアクセスできる
