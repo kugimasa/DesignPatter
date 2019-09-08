@@ -48,3 +48,6 @@ Studying GoF's 23 Design Pattern in Java
 
 [Iterator](/Iterator)
 * 蓄積されたオブジェクト群に対して順番にアクセスできる
+
+[Mediator](/Mediator)
+* 複数のオブジェクトを相互作用させることができる
